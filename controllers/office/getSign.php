@@ -46,8 +46,8 @@ function updateSign($mysqli, $uid)
     $mysqli_stmt->bind_param('isi', $isSign, $nowTime, $uid);
     if ($mysqli_stmt->execute()) {
         echo PHP_EOL;
-        // window.location.href js控制跳转到新页面
-        // echo "<script>window.location.href='../../views/office/feedback.html'</script>";
+        // window.location.href js控制跳转到新页面  
+        echo "<script>window.location.href='../../views/office/feedback.html'</script>";
     } else {
         echo $mysqli_stmt->error;
     }
