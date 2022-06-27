@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加用户</title>
+    <link rel="stylesheet" href="../../static/pkg/bootstrap-4.6.1-dist/css/bootstrap.min.css">
+    <script src="../../static/pkg/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <div class="card-body">
+        <form action="../../controllers/admin/useradd.php" method="get">
+            <h3>添加成员</h3>
+            <div class="form-group">
+                <label for="exampleInputEmail1">用户名</label>
+                <input type="text" class="form-control" name="username" id="exampleInputEmail1"
+                    aria-describedby="emailHelp">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">学号</label>
+                <input type="number" class="form-control" name="workNumber" id="exampleInputPassword1">
+            </div>
+            <button type="submit" class="btn btn-primary">添加</button>
+        </form>
+    </div>
+    <script src="./static/pkg/bootstrap-4.6.1-dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
