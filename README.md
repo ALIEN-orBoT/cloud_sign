@@ -9,7 +9,7 @@
 
 截图演示：
 
-https://raw.githubusercontent.com/ALIEN-orBoT/cloud_sign/main/gallery/%E7%94%A8%E6%88%B7%E9%A6%96%E9%A1%B5.png
+![image-打卡成功](./gallery/用户首页.png)
 
 ![image-打卡成功](./gallery/打卡成功.png)
 
