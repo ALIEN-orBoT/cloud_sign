@@ -9,7 +9,7 @@
 
 截图演示：
 
-![image-用户首页](./gallery/用户首页.png)
+https://raw.githubusercontent.com/ALIEN-orBoT/cloud_sign/main/gallery/%E7%94%A8%E6%88%B7%E9%A6%96%E9%A1%B5.png
 
 ![image-打卡成功](./gallery/打卡成功.png)
 
@@ -20,5 +20,3 @@
 ![image-管理员后台](./gallery/管理员后台.png)
 
 ![image-添加用户](./gallery/添加用户.png)
-
-ps.这个项目是跟着B站一个up主手把手做的 https://www.bilibili.com/video/BV1jZ4y1z72A
